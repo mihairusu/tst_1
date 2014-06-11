@@ -1,0 +1,9 @@
+﻿<Window x:Class="GitHub_tst.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Press Me! If you dare XD" HorizontalAlignment="Left" Margin="168,116,0,0" VerticalAlignment="Top" Width="144" Height="68" Click="Button_Click"/>
+
+    </Grid>
+</Window>
